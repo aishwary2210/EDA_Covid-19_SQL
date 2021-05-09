@@ -8,4 +8,4 @@ Exploratory data analysis using SQL
 ### Technologies
 * SSMS
 * MySql
-* Azure 
+* Azure
